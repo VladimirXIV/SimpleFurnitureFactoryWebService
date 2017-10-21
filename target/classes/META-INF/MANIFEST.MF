@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: furniturefactory
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Waldemar
+Implementation-Vendor-Id: uncom.just.4.fun
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/furniturefac
+ tory/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
